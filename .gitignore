@@ -1,0 +1,4 @@
+node_modules
+_pycache_
+server.log
+output.css
